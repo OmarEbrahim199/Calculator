@@ -13,6 +13,7 @@ public class Main {
         var scs = new StringCalculator();
 
         System.out.println("Hello World");
+        System.out.println("Hello");
 
     }
 }
