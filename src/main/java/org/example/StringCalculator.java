@@ -30,22 +30,6 @@ public class StringCalculator {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public static int handleAnUnknownAmountOfNumbers(String input) {
         InnerStringCalculator calculator = new InnerStringCalculator(input);
         return calculator.add();
